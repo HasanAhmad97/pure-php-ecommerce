@@ -28,7 +28,7 @@ include("includes/db.php");
   
   <div class="header_logo">
   <a href="index.php">
-  <img id="logo" src="images/metrixcode100x30.png" />
+  <img id="logo" src="images/logo.png" />
   </a>
   </div><!--/.header_logo-->
   
